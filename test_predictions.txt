@@ -5213,8 +5213,3 @@ Predicted: aujourd hui l me veut dire sortir translator translator translator tr
 Source: a mouth which tells you where to get out is an exit
 Target: une bouche qui indique où sortir est une sortie
 Predicted: une bouche qui explique où sortir est une liste école école école école école école école école école école école école école école école école école
-
-Source: this is a slide to remind me that i should stop talking and get off of the stage thank you
-Target: ça c est une diapo qui me rappelle que je dois arrêter de parler et descendre de la scène merci
-Predicted: ça c est une diapositive qui me permet que je dois arrêter de la et de de la scène merci sont sont sont sont faites faites faites faites faites faites faites faites faites faites faites faites faites faites faites faites faites faites faites
-
